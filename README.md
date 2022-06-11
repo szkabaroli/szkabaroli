@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Roland Sz. Kovács.
+- 👋 Hi, I’m Roland Szarka-Kovács.
 - 👀 I’m interested in TypeScript, Rust, React and React Native.
-- 🌱 I’m currently learning blockchain development.
-- 💞️ I’m looking to collaborate on stuff that matters.
-- 📫 Reach me via email at: roland@meshx.co
+- 🌱 I’m currently learning about decentralized identity.
+- 💞️ I’m love working on stuff that matters.
+- 📫 Reach me via email at: Roland.Szarka-Kovacs@meshx.co
